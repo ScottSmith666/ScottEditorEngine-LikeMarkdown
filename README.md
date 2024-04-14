@@ -22,3 +22,9 @@ If you want to switch the night/dark mode, right click and choose "切换到夜�
 ![](https://github.com/ScottSmith666/ScottEditorEngine-LikeMarkdown/blob/master/desc/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-14%20222106.png)
 ![](https://github.com/ScottSmith666/ScottEditorEngine-LikeMarkdown/blob/master/desc/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-14%20222143.png)
 
+We support to import your local file to Scott Editor Engine.
+![](https://github.com/ScottSmith666/ScottEditorEngine-LikeMarkdown/blob/master/desc/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-14%20222415.png)
+![](https://github.com/ScottSmith666/ScottEditorEngine-LikeMarkdown/blob/master/desc/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-14%20222504.png)
+
+Don't worry! Scott Editor Engine can save your text in real time and automatically!
+![](https://github.com/ScottSmith666/ScottEditorEngine-LikeMarkdown/blob/master/desc/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-14%20222539.png)
